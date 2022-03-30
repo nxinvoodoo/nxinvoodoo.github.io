@@ -98,7 +98,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: hexo-theme-xoxo
-theme: hexo-theme-one-paper 
+theme: jekyll-theme-minimal 
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
